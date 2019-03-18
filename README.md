@@ -22,6 +22,14 @@ C6 | 10 µF 16V | radial
 
 ![PCB](images/adaptateur-rvb-layer.jpg)
 
+## Inductor replacement
+
+As you can see in the above picture, L1 (a 3.7Ω 0.27mH inductor) is
+missing. The TL497ACN chip in its `BASIC CONFIGURATION
+(Peak Switching Current = I(PK) < 500 mA)` ([page 5 of the datasheet](https://www.ti.com/lit/ds/symlink/tl497a.pdf))
+is the only configuration using a coil between pins 13 and 10 of this
+voltage regulator, but seems to work correctly without it. Caveat emptor.
+
 ## License
 
 See [license file](LICENSE)

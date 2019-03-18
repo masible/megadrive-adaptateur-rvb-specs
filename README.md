@@ -4,7 +4,7 @@ with French Mega Drives.
 
 ## External documentation
 
-- [Using the RVB adapter for NTSC output (French)](http://www.segakore.fr/index.php/2004/08/07/mega-drive-modifiez-votre-cable-rgb-fr-vers-pal-ntsc)
+- [Using the RVB adapter for NTSC output (French)](http://www.segakore.fr/index.php/2004/08/07/mega-drive-modifiez-votre-cable-rgb-fr-vers-pal-ntsc) (this might also allow unmodified PAL output)
 - [Sega RGB cable](https://segaretro.org/Sega_Master_System#Sega_RGB_Cable)
 
 ## Board

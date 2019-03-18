@@ -30,6 +30,15 @@ missing. The TL497ACN chip in its `BASIC CONFIGURATION
 is the only configuration using a coil between pins 13 and 10 of this
 voltage regulator, but seems to work correctly without it. Caveat emptor.
 
+## Reassembly
+
+![Board in case](images/reassembly.jpg)
+
+The board is _not_ symmetrical. You'll probably want to reassemble it
+by inserting it in the half of the case that has the screw posts, upside
+down. If the 2 holes that aren't near the cables don't line up, rotate
+the case 180 degrees.
+
 ## License
 
 See [license file](LICENSE)
